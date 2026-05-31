@@ -1,5 +1,5 @@
 ## hello.
-<sup><sub>(mintblocks will have online projects support soon!. the problem is i dont have time for it right now)</sub></sup>
+<sup><sub>tiny text</sub></sup>
 <!--
 **Jimhasaburger/Jimhasaburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
