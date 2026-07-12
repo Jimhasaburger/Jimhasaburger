@@ -1,5 +1,5 @@
-## hello.
-<sup><sub>tiny text</sub></sup>
+## hello!
+<img src="https://raw.githubusercontent.com/jimhasaburger/jimhasaburger/output/snake.svg" alt="Snake animation" />
 <!--
 **Jimhasaburger/Jimhasaburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
