@@ -1,5 +1,6 @@
 ## hello!
 i make random things.
+i know lua. (and Roblox Lua a bit)
 
 
 ## pinned:
