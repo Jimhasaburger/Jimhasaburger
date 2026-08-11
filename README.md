@@ -5,6 +5,7 @@ i make random things.
 ## pinned:
 youtube-chat-vm is a script that lets youtube chat use commands to use a virtualbox VM
 
+BuildLogicSave is a documentation i made of Roblox build logic game's Legacy save (savestring) system.
 
 ## cool snake animation:
 <img src="https://raw.githubusercontent.com/jimhasaburger/jimhasaburger/output/snake.svg" alt="Snake animation" />
