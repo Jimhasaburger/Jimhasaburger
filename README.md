@@ -6,6 +6,7 @@ i make random things.
 - youtube-chat-vm is a script that lets youtube chat use commands to use a virtualbox VM
 - BuildLogicSave is a documentation i made of Roblox build logic game's Legacy save (savestring) system.
 - reallyiron/Simple-Obs-Dvd-logoifyer OBS dvd bounce script of my friend.
+- Lua Minecraft server. does not go into world yet, because of some issues.
 - Craft.JS minecraft clone in js
 - Azwqxr/windows-sim windows 7 simulator i used to be working on.
 
