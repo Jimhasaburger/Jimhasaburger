@@ -5,10 +5,9 @@ i know lua. (and Roblox Lua a bit)
 
 ## pinned:
 - youtube-chat-vm is a script that lets youtube chat use commands to use a virtualbox VM
-- BuildLogicSave is a documentation i made of Roblox build logic game's Legacy save (savestring) system.
-- Lua Minecraft server. does not go into world yet, because of some issues.
-- Craft.JS minecraft clone in js
-- textos: os i making
+- jimhasaburger-domain is my website at https://jimhasaburger.com
+- blocksc-web is the website for blocksc
+- mintblocks gui is the gui of mintblocks which is kind of abandoned, but its scratch but lua. but also didnt get to the point where it works
 ## cool snake animation:
 <img src="https://raw.githubusercontent.com/jimhasaburger/jimhasaburger/output/snake.svg" alt="Snake animation" />
 
